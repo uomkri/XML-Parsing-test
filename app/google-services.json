@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41761359195",
+    "firebase_url": "https://marlerinotest.firebaseio.com",
+    "project_id": "marlerinotest",
+    "storage_bucket": "marlerinotest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "***",
+        "android_client_info": {
+          "package_name": "ru.uomkri.marlerinotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "***",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.uomkri.marlerinotest",
+            "certificate_hash": "***"
+          }
+        },
+        {
+          "client_id": "***",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "***"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "***",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
